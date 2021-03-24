@@ -23,7 +23,7 @@ YOLO is based on darknet. Darknet is an open source neural network framework wri
 ## Specifications 💻 
 * **Model: Yolov4**
 * **Weights Used: yolov4-csp.weights** 
-<br>
+
 This is uses scaled yolov4 weights because it provides fast detection speed and reliable accuracy. Note: the weights were pre trained on the [MS COCO dataset](https://cocodataset.org/#home).
     
 
